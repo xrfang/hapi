@@ -1,8 +1,9 @@
 package main
 
 import (
-	"hapi"
 	"net/http"
+
+	"github.com/xrfang/hapi"
 )
 
 func main() {
